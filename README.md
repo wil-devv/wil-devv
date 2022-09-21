@@ -1,4 +1,4 @@
- <h2> Olá! Eu sou Willian Lima, seja bem-vindo (a) ao meu GitHub :) </h2>
+<h2> Olá! Eu sou Willian Lima, seja bem-vindo (a) ao meu GitHub :) </h2>
 
 - 👨🏽‍💻 Atualmente trabalho com Front-end
 - 📕 Esudando JavaScript, HTML, CSS e Bootstrap
