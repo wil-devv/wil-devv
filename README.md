@@ -1,8 +1,8 @@
 <h2> Olá! Eu sou Willian Lima, seja bem-vindo (a) ao meu GitHub :) </h2>
 
-- 👨🏽‍💻 Atualmente trabalho com Front-end
-- 📕 Esudando JavaScript, HTML, CSS e React
-#
+- 👨🏽‍💻 Atualmente trabalhando como freelancer Front-end
+- 📕 Esudante de HTML3, CSS5 e JavaScript.
+- #
 <div align="center">
   <a href="https://github.com/wil-devv">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wil-devv&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
