@@ -1,7 +1,7 @@
 <h2> Olá! Eu sou Willian Lima, seja bem-vindo (a) ao meu GitHub :) </h2>
 
 - 👨🏽‍💻 Atualmente trabalhando como freelancer Front-end
-- 📕 Esudante de HTML3, CSS5 e JavaScript.
+- 📕 Esudante de HTML5, CSS3 e JavaScript.
 - #
 <div align="center">
   <a href="https://github.com/wil-devv">
